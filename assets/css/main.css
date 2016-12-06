@@ -1572,7 +1572,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #0088cc !important;
 		}
 
 	strong, b {
@@ -1724,7 +1724,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #4dc3ff;
 		font-size: 3.5em;
 	}
 
@@ -1787,7 +1787,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #0088cc;
 		}
 
 	.select-wrapper {
@@ -1897,7 +1897,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #0088cc;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2090,7 +2090,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #0088cc;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2377,7 +2377,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #77ff33;
 			color: #ffffff !important;
 		}
 
@@ -2385,7 +2385,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #aaff80;
 			}
 
 			input[type="submit"].special:active,
@@ -2459,7 +2459,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #0088cc;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2567,7 +2567,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #0088cc !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2846,7 +2846,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #0088cc;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
